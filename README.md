@@ -8,7 +8,7 @@ This command-line tool allows users to track and report working hours, including
 
 - **Track Hours**: Record hours worked for different time codes.
 - **Time Code Management**: Add new time codes as needed.
-- **Reports**: Generate reports on daily, weekly, monthly, and yearly bases.
+- **Reports**: Generate reports on daily, weekly, monthly, and yearly basis.
 - **PTO Tracking**: Track PTO accumulation based on a 89% utilization rate.
 - **12-hour Limit**: Enforce a maximum of 12 tracked hours per day.
 
